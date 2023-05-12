@@ -1,0 +1,72 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin-bottom: 486px;
+  
+  
+}
+
+#viagem {
+    width: 626px;
+    margin: 0 auto 64px;
+}
+
+
+#viagem img {
+  margin-top: 64px;
+  margin-bottom: 32px; 
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40.45px;
+  font-weight: normal;
+  color: #3F3D56;
+
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+  color: #EE24FF;
+  
+}
+
+span, a {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+#quadro {
+
+  width: 540px;
+  text-align: center;
+  margin: 0 auto 0px;
+}
+
+p, #footer {
+  color: #7d7987;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+#footer a + a {
+    margin-left: 42px;
+}
+
+#line {
+    width: 391px;
+    height: 0px;
+
+    margin: 0 auto 16px;
+
+    border: 1px solid #ECEFF2;
+}
+
+#onda {
+    
+    margin-top: 40.83px;
+      
+    
+}
